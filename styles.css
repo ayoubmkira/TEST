@@ -13,3 +13,8 @@ h1 {
     background-color: whitesmoke;
     padding: 1.5rem
 }
+
+.btn {
+    padding: 15px 20px;
+    cursor: pointer;
+}
